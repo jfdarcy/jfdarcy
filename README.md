@@ -5,7 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on finding UX research work.
+- 💬 I’m currently working on a few software projects:
+  1) Fair Hire AI (www.fairhireai.com), an AI-based SaaS application to help organizations reduce bias and discrimination in their hiring process.
+  2) A UX research tool that perfoms 5-second tests.
+- 🔭 I am trying to find UX research or human factors engineering work.
 - 🌱 I’m currently learning GitHub.
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +16,8 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-->
+- 😄 Pronouns: he/him
+<!--
 - ⚡ Fun fact: ...
 -->
