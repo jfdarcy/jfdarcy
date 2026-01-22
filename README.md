@@ -6,16 +6,20 @@
 Here are some ideas to get you started:
 -->
 - 💬 I’m currently working on a few software projects:
-  1) Fair Hire AI (www.fairhireai.com), an AI-based SaaS application to help organizations reduce bias and discrimination in their hiring process.
-  2) A UX research suite of tools that perfoms, for example, 5-second tests and card sorts.
-- 🔭 UX researcher and human factors engineer focused on developer tools, and complex, safety-critical systems.
-- 🌱 I’m currently learning GitHub.
+  1) **Fair Hire AI** (www.fairhireai.com), an AI-based SaaS application to help organizations reduce bias and discrimination in their hiring process.
+  2) **Do users get it?**, a UX research suite of tools supporting methds such as 5-second tests and card sorting.
+- 🔭 UX researcher and human factors engineer focused on esearch methodologies, developer tools, and complex, safety-critical systems.
+- 🌱 Actively learning GitHub by building and shipping real projects.
+- 📫 How to reach me:
+  *   **Email:** jfdarcy@gmail.com
+  *   **LinkedIn:** [Jean-François D'Arcy](https://www.linkedin.com/in/jfdarcy)
+  *   **Personal Website:** [www.jfdarcy.com](https://www.jfdarcy.com)
+
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 -->
 - 😄 Pronouns: he/him
 <!--
