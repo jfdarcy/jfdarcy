@@ -10,7 +10,7 @@ Here are some ideas to get you started:
   2) **Do users get it?** (www.dousersgetit.com), a UX research suite of tools supporting methds such as 5-second tests and card sorting.
   3) **AI UX Research Toolkit** (https://jfdarcy.github.io/ai-ux-research-toolkit/), UX research tools that treat AI as a tireless co-researcher—not a shortcut.
 - 🔭 UX researcher and human factors engineer focused on research methodologies, developer tools, and complex, safety-critical systems.
-- 🌱 Actively learning GitHub by building and shipping real projects.
+- 🌱 Actively learning product building by shipping real projects.
 - 📫 How to reach me:
   *   **Email:** jfdarcy@gmail.com
   *   **LinkedIn:** [Jean-François D'Arcy](https://www.linkedin.com/in/jfdarcy)
