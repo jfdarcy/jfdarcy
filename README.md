@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 - 💬 I’m currently working on a few software projects:
   1) **Fair Hire AI** (www.fairhireai.com), an AI-based SaaS application to help organizations reduce bias and discrimination in their hiring process.
-  2) **Do users get it?** (www.dousersgetit.com), a UX research suite of tools supporting methds such as 5-second tests and card sorting.
+  2) **Do users get it?** (www.dousersgetit.com), a UX research suite of tools supporting methods such as 5-second tests and card sorting.
   3) **AI UX Research Toolkit** (https://jfdarcy.github.io/ai-ux-research-toolkit/), UX research tools that treat AI as a tireless co-researcher—not a shortcut.
 - 🔭 UX researcher and human factors engineer focused on research methodologies, developer tools, and complex, safety-critical systems.
 - 🌱 Actively learning product building by shipping real projects.
