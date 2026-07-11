@@ -1,28 +1,31 @@
-### Hi there 👋
+## UX Researcher · Human Factors Engineer · Product Builder
 
-<!--
-**jfdarcy/jfdarcy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cognitive scientist with 25+ years helping teams build better products through UX research, human factors engineering, and AI.
 
-Here are some ideas to get you started:
--->
-- 💬 I’m currently working on a few software projects:
-  1) **Fair Hire AI** (www.fairhireai.com), an AI-based SaaS application to help organizations reduce bias and discrimination in their hiring process.
-  2) **Do users get it?** (www.dousersgetit.com), a UX research suite of tools supporting methods such as 5-second tests and card sorting.
-  3) **AI UX Research Toolkit** (https://jfdarcy.github.io/ai-ux-research-toolkit/), UX research tools that treat AI as a tireless co-researcher—not a shortcut.
-- 🔭 UX researcher and human factors engineer focused on research methodologies, developer tools, and complex, safety-critical systems.
-- 🌱 Actively learning product building by shipping real projects.
-- 📫 How to reach me:
-  *   **Email:** jfdarcy@gmail.com
-  *   **LinkedIn:** [Jean-François D'Arcy](https://www.linkedin.com/in/jfdarcy)
-  *   **Personal Website:** [www.jfdarcy.com](https://www.jfdarcy.com)
+I build practical AI tools that help researchers and product teams work faster, think deeper, and make better decisions.
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+🚀 Currently building
 
-- 💬 Ask me about ...
--->
-- 😄 Pronouns: he/him
-<!--
-- ⚡ Fun fact: ...
--->
+| Project | Description | Link |
+|---------|--------------|------|
+| **AI UX Research Toolkit** | Open-source toolkit for AI-assisted UX research | [Site](https://jfdarcy.github.io/ai-ux-research-toolkit/) · [Repo](https://github.com/jfdarcy/ai-ux-research-toolkit) |
+| Do Users Get It? | Affordable UX research platform (5-second tests, card sorting) | [Site](https://www.dousersgetit.com) · [Repo](https://github.com/jfdarcy/DoUsersGetIt-Landing-Page) |
+| Fair Hire AI | Bias reduction in hiring | [Site](https://www.fairhireai.com) · [Query Builder](https://github.com/jfdarcy/query-builder) · [Repo](https://github.com/jfdarcy/FairHireAI-Landing-Page) |
+| Job Applications Toolkit | AI-assisted workflow for tailored UX research applications | [Repo](https://github.com/jfdarcy/Job-Applications) |
+
+
+**Note.** Most repositories are prototypes or research tools rather than production software. They reflect how I use AI to accelerate UX research, product thinking, and experimentation.
+
+### Currently exploring
+
+Building AI-assisted UX research workflows
+
+Experimenting with agentic UX research
+
+Designing Human-centered AI systems
+
+Rapid product prototyping with AI
+
+📫 Contact
+
+[jfdarcy.com](https://www.jfdarcy.com) · [LinkedIn](https://www.linkedin.com/in/jfdarcy) · jfdarcy@gmail.com
